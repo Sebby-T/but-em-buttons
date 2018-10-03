@@ -65,5 +65,5 @@ span {
 }
 
 .btn-ghost:active span {
-  transform: scaleY(8px);
+  transform: translateY(8px);
 }
